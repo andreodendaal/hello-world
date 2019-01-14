@@ -1,3 +1,3 @@
 # hello-world
 update
-upedates 2
+updates 2
